@@ -58,4 +58,7 @@ The process involves collecting soil, weather, and farmer input data, standardiz
 <ul><li>The solution has a wide range of benefits. Socially, it empowers farmers with localized and scientific knowledge. Economically, it helps farmers achieve better yields, reduces input costs, and improves income through better market access. Environmentally, it promotes sustainable farming practices and reduces excessive usage of fertilizers and pesticides, thereby protecting soil and water resources.</li></ul>
 
 ## Research and References
-<ul><li>The work is supported by the NABARD Report of 2022, which highlights the challenges of small and marginal farmers. It also references Food and Agriculture Organization (FAO) studies on ICT in agriculture and various research papers on artificial intelligence in crop advisory and pest detection. Government initiatives such as eNAM and digital agri-tech platforms also serve as supporting references.</li></ul>
+<ul><li>The work is supported by the NABARD Report of 2022, which highlights the challenges of small and marginal farmers. It also references Food and Agriculture Organization (FAO) studies on ICT in agriculture and various research papers on artificial intelligence in crop advisory and pest detection. Government initiatives such as eNAM and digital agri-tech platforms also serve as supporting references.
+- Framer Community: https://www.framer.com/community — Connect with other designers and developers.
+Framer Documentation: https://www.framer.com/docs — Great for learning how to use Framer’s features and APIs.
+</li></ul>
